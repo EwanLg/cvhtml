@@ -68,16 +68,16 @@ a {
 a:hover {
     color: #0099ff; 
 }
-ul.custom-bullets {
+ul.logocustom {
     list-style-type: none; 
     padding-left: 0;
 }
-ul.custom-bullets li {
+ul.logocustom li {
     margin-bottom: 5px;
     padding-left: 20px;
     position: relative;
 }
-ul.custom-bullets li::before {
+ul.logocustom li::before {
     content: "☑"; 
     color: #ff6699; 
     position: absolute;
