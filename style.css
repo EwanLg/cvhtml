@@ -78,7 +78,7 @@ ul.custom-bullets li {
     position: relative;
 }
 ul.custom-bullets li::before {
-    content: "★"; 
+    content: "☑"; 
     color: #ff6699; 
     position: absolute;
     left: 0;
