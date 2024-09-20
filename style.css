@@ -84,14 +84,3 @@ ul.logocustom li::before {
     left: 0;
     top: 0;
 }
-@media (max-width: 768px) {
-    img.photo {
-        width: 100px; 
-    }
-}
-
-@media (max-width: 480px) {
-    img.photo {
-        width: 80px;
-    }
-}
