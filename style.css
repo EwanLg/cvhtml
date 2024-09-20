@@ -29,13 +29,13 @@ body {
     padding: 10px;
     background-color: #ffebcc;
 }
-.sectionalt1 {
+.section.alt1 {
     background-color: #ffcc99; 
 }
-.sectionalt2 {
+.section.alt2 {
     background-color: #ff9966;
 }
-.sectionalt3 {
+.section.alt3 {
     background-color: #ffb3b3;
 }
 h2 {
